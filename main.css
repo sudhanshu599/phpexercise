@@ -1,0 +1,31 @@
+.jumbotron {
+  height: 100px;
+  padding-top: 20px;
+  border-radius: 0px;
+  background-color: black;
+}
+.container {
+  align-items: center;
+  justify-content: center;
+  padding: 40px 40px;
+  margin-top: -30px;
+}
+#table {
+  display: none;
+}
+.cont {
+  padding-top: 0px;
+  margin-top: -20px;
+  text-align: center;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  height: 10%;
+  bottom: 0px;
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+  color: black;
+  text-align: center;
+}
